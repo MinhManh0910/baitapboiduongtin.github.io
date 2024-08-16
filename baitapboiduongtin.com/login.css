@@ -1,0 +1,91 @@
+.menu-bar{
+    background-color: green;
+    text-align: center;
+    padding:10px;
+}
+.menu-bar ul{
+display:inline-flex;
+list-style:none;
+}
+.menu-bar ul li a{
+color:#fff;
+width:120px;
+margin:15px;
+padding:15px;
+text-align: center;
+margin-right:100px;
+background-color: #0a9308;
+border-radius:3px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+body {
+    position: relative;
+    overflow: hidden; /* Để lớp phủ không tràn ra ngoài */
+}
+
+.background-overlay {
+    position: fixed; /* Cố định lớp phủ mờ */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://tuyendung.kfcvietnam.com.vn/Data/Sites/1/News/273/ngon-ngu-c-.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.877); /* Đặt màu mờ của lớp phủ */
+    z-index: -1; /* Đặt lớp phủ phía dưới nội dung */
+}
+
+.content {
+    position: relative;
+    z-index: 1; /* Đặt nội dung ở trên lớp phủ */
+}
+.minh{
+margin-right:190px;
+}
+.mj{
+font-size: 200%;
+}
+.minhj{
+margin-top:10px;
+}
+.ml{
+margin-top:10px;
+}
+.mk{
+margin-top:10px;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.baitapcoloi{
+    float:left;
+}
+.chinhlogin{
+    text-align:center;
+}
+.input{
+    float:right;
+}
+.class{
+    float:right;
+}
+.image {
+    width: 500px; /* Thay đổi kích thước ảnh theo ý muốn */
+    height: auto; /* Đảm bảo tỷ lệ ảnh được giữ nguyên */
+    margin-right: 15px; /* Khoảng cách giữa ảnh và văn bản */
+}
+
+.text {
+    margin: 0; /* Loại bỏ khoảng cách mặc định của đoạn văn */
+    margin-bottom:1000px;
+}

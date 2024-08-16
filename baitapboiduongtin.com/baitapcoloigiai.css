@@ -1,0 +1,113 @@
+.menu-bar{
+    background-color: green;
+    text-align: center;
+    padding:10px;
+}
+.menu-bar ul{
+display:inline-flex;
+list-style:none;
+}
+.menu-bar ul li a{
+color:#fff;
+width:120px;
+margin:15px;
+padding:15px;
+text-align: center;
+margin-right:100px;
+background-color: #0a9308;
+border-radius:3px;
+
+}
+
+.minh{
+margin-right:190px;
+}
+.mj{
+font-size: 200%;
+}
+.minhj{
+margin-top:10px;
+}
+.ml{
+margin-top:10px;
+}
+.mk{
+margin-top:10px;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.moi{
+    text-align: center;
+}
+.copilot{
+    font-size:200%;
+}
+.chat{
+    font-size:200%;
+    margin-right:260px;
+}
+.gpt{
+   font-size: 160%;
+   margin-right:310px;
+}
+.pin{
+  font-size:100%;
+  margin-right:90px;
+}
+.quan ,.ao{
+    display:inline-block;
+    margin-left:10px;
+    font-size:130%;
+}
+.quan{
+    margin-right:200px;
+    border-radius:20px;
+    background-color: #0a9308;
+    padding-top:5px;
+    padding-left:9px;
+    padding-bottom:5px;
+    padding-right:10px;
+    color:#fff;
+}
+.ao a{
+    color: #fff;
+    text-decoration: none; /* Loại bỏ gạch dưới */
+}
+.ao{
+    margin-left: 10px;
+    border-radius:20px;
+    background-color: #0a9308;
+    padding-top:5px;
+    padding-left:9px;
+    padding-bottom:5px;
+    padding-right:10px;
+    color: #fff;
+}
+.quan:hover{
+    background-color: #05690c;
+}
+.ao:hover{
+    background-color: #05690c;
+}
+.canbac2{
+    text-align: center;
+}
+.mlo{
+    width: 50%; /* Điều chỉnh độ rộng theo ý bạn */
+    margin: auto; /* Để canh giữa nếu muốn */
+    margin-bottom:10px;
+}
+.midi{
+    width:50%;
+    margin:auto;
+    margin-top:10px;
+}
+.q{
+    margin-right:270px;
+}
+.baitapcoloi{
+    float:left;
+}

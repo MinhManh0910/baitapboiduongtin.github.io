@@ -1,0 +1,126 @@
+
+.menu-bar{
+    background-color: green;
+    text-align: center;
+    padding:10px;
+}
+.menu-bar ul{
+display:inline-flex;
+list-style:none;
+}
+.menu-bar ul li a{
+color:#fff;
+width:120px;
+margin:15px;
+padding:15px;
+text-align: center;
+margin-right:100px;
+background-color: #0a9308;
+border-radius:3px;
+
+}
+
+.minh{
+margin-right:190px;
+}
+.mj{
+font-size: 200%;
+}
+.minhj{
+margin-top:10px;
+}
+.ml{
+margin-top:10px;
+}
+.mk{
+margin-top:10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chinhsua{
+    font-size: 200%;
+}
+.baitap{
+    text-align: center;
+}
+.bai{
+    margin-right: 570px;
+}
+.tl{
+    margin-left:120px;
+}
+.md{
+    margin-left:356px;
+}
+.gio{
+    margin-right:730px;
+}
+.phut{
+    margin-right:120px;
+}
+.tin{
+     margin-right:590px;
+}
+.van{
+    margin-right:500px;
+}
+.toan{
+    margin-right:210px;
+}
+.gdcd{
+    margin-right:730px;
+}
+.hoa{
+    margin-right:100px;
+}
+.cn{
+    margin-right:590px;
+}
+.sinh{
+    margin-right:500px;
+}
+.vatly{
+    margin-right:480px;
+}
+.yt{
+    margin-right:480px;
+}
+.nha {
+    margin-right: 730px;
+}
+.cua {
+    margin-right: 100px;
+}
+.xe {
+    margin-right: 590px;
+}
+.kn {
+    margin-right: 390px;
+}
+.lh {
+    margin-right:429px;
+}
+.in{
+    margin-right:505px;
+}
+.tbc{
+    margin-right: 730px;
+}
+.cho{
+    margin-right: 300px;
+}
+.gdtc{
+    margin-right: 590px;
+}
+.pre{
+    margin-right: 450px;
+}
+.html{
+    margin-right: 340px;
+}
+.baitapcoloigiai{
+    float:left;
+}
